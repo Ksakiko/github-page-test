@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ksakiko.github.io/github-pages-test/",
+  "homepage": "https://ksakiko.github.io/github-pages-test",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
